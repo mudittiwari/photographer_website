@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+body
+{
+    background-color: #021b29;
+    font-family: Inter, sans-serif;
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: Inter, sans-serif
+}
+h1
+{
+  line-height:0px;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

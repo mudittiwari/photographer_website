@@ -1,0 +1,12 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+.hamburgerline
+{
+    width: 24px;
+    height: 2px;
+    background-color: #01141f;
+    margin:3px 0px;
+}
